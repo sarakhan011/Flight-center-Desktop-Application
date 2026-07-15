@@ -27,7 +27,7 @@ void processPayment(double amount, const string& creditCardNumber);
 void makeReservation(int selectedFlight);
 
 int main() {
-    cout << "------WELCOME TO PAKISTAN INTERNATIONAL AIRLINE (PIA)\n";
+    cout << "------WELCOME TO Airline System \n";
 
     UserInfo newUser;
     cout << "Registration :)\nEnter username: ";
